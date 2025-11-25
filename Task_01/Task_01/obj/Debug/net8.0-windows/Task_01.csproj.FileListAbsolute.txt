@@ -1,0 +1,17 @@
+C:\Users\Teacher\Documents\Asp.Net\Task_01\Task_01\bin\Debug\net8.0-windows\Task_01.exe
+C:\Users\Teacher\Documents\Asp.Net\Task_01\Task_01\bin\Debug\net8.0-windows\Task_01.deps.json
+C:\Users\Teacher\Documents\Asp.Net\Task_01\Task_01\bin\Debug\net8.0-windows\Task_01.runtimeconfig.json
+C:\Users\Teacher\Documents\Asp.Net\Task_01\Task_01\bin\Debug\net8.0-windows\Task_01.dll
+C:\Users\Teacher\Documents\Asp.Net\Task_01\Task_01\bin\Debug\net8.0-windows\Task_01.pdb
+C:\Users\Teacher\Documents\Asp.Net\Task_01\Task_01\obj\Debug\net8.0-windows\Task_01.Form1.resources
+C:\Users\Teacher\Documents\Asp.Net\Task_01\Task_01\obj\Debug\net8.0-windows\Task_01.Form2.resources
+C:\Users\Teacher\Documents\Asp.Net\Task_01\Task_01\obj\Debug\net8.0-windows\Task_01.csproj.GenerateResource.cache
+C:\Users\Teacher\Documents\Asp.Net\Task_01\Task_01\obj\Debug\net8.0-windows\Task_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teacher\Documents\Asp.Net\Task_01\Task_01\obj\Debug\net8.0-windows\Task_01.AssemblyInfoInputs.cache
+C:\Users\Teacher\Documents\Asp.Net\Task_01\Task_01\obj\Debug\net8.0-windows\Task_01.AssemblyInfo.cs
+C:\Users\Teacher\Documents\Asp.Net\Task_01\Task_01\obj\Debug\net8.0-windows\Task_01.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Documents\Asp.Net\Task_01\Task_01\obj\Debug\net8.0-windows\Task_01.dll
+C:\Users\Teacher\Documents\Asp.Net\Task_01\Task_01\obj\Debug\net8.0-windows\refint\Task_01.dll
+C:\Users\Teacher\Documents\Asp.Net\Task_01\Task_01\obj\Debug\net8.0-windows\Task_01.pdb
+C:\Users\Teacher\Documents\Asp.Net\Task_01\Task_01\obj\Debug\net8.0-windows\Task_01.genruntimeconfig.cache
+C:\Users\Teacher\Documents\Asp.Net\Task_01\Task_01\obj\Debug\net8.0-windows\ref\Task_01.dll

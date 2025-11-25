@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teacher\\Documents\\Asp.Net\\Data_Table\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C77522FD-C910-4873-AC8B-938DA0E70479}|Data_Table\\Data_Table.csproj|c:\\users\\teacher\\documents\\asp.net\\data_table\\data_table\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C77522FD-C910-4873-AC8B-938DA0E70479}|Data_Table\\Data_Table.csproj|solutionrelative:data_table\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.Net\\Data_Table\\Data_Table\\Form1.cs",
+              "RelativeDocumentMoniker": "Data_Table\\Form1.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.Net\\Data_Table\\Data_Table\\Form1.cs [Design]",
+              "RelativeToolTip": "Data_Table\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:43:08.399Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

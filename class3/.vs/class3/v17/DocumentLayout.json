@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teacher\\Documents\\Asp.Net\\class3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40536D9A-705D-4885-926D-CBE529A884AF}|class3\\class3.csproj|c:\\users\\teacher\\documents\\asp.net\\class3\\class3\\views\\operator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40536D9A-705D-4885-926D-CBE529A884AF}|class3\\class3.csproj|solutionrelative:class3\\views\\operator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40536D9A-705D-4885-926D-CBE529A884AF}|class3\\class3.csproj|C:\\Users\\Teacher\\Documents\\Asp.Net\\class3\\class3\\controllers\\operatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40536D9A-705D-4885-926D-CBE529A884AF}|class3\\class3.csproj|solutionrelative:class3\\controllers\\operatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.Net\\class3\\class3\\Views\\Operator\\index.cshtml",
+              "RelativeDocumentMoniker": "class3\\Views\\Operator\\index.cshtml",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.Net\\class3\\class3\\Views\\Operator\\index.cshtml",
+              "RelativeToolTip": "class3\\Views\\Operator\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T13:13:48.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperatorController.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.Net\\class3\\class3\\Controllers\\OperatorController.cs",
+              "RelativeDocumentMoniker": "class3\\Controllers\\OperatorController.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.Net\\class3\\class3\\Controllers\\OperatorController.cs",
+              "RelativeToolTip": "class3\\Controllers\\OperatorController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T13:11:11.729Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\Teacher\Documents\Asp.Net\Student_Form\Student_Form\bin\Debug\net8.0-windows\Student_Form.exe
+C:\Users\Teacher\Documents\Asp.Net\Student_Form\Student_Form\bin\Debug\net8.0-windows\Student_Form.deps.json
+C:\Users\Teacher\Documents\Asp.Net\Student_Form\Student_Form\bin\Debug\net8.0-windows\Student_Form.runtimeconfig.json
+C:\Users\Teacher\Documents\Asp.Net\Student_Form\Student_Form\bin\Debug\net8.0-windows\Student_Form.dll
+C:\Users\Teacher\Documents\Asp.Net\Student_Form\Student_Form\bin\Debug\net8.0-windows\Student_Form.pdb
+C:\Users\Teacher\Documents\Asp.Net\Student_Form\Student_Form\obj\Debug\net8.0-windows\Student_Form.Form1.resources
+C:\Users\Teacher\Documents\Asp.Net\Student_Form\Student_Form\obj\Debug\net8.0-windows\Student_Form.csproj.GenerateResource.cache
+C:\Users\Teacher\Documents\Asp.Net\Student_Form\Student_Form\obj\Debug\net8.0-windows\Student_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teacher\Documents\Asp.Net\Student_Form\Student_Form\obj\Debug\net8.0-windows\Student_Form.AssemblyInfoInputs.cache
+C:\Users\Teacher\Documents\Asp.Net\Student_Form\Student_Form\obj\Debug\net8.0-windows\Student_Form.AssemblyInfo.cs
+C:\Users\Teacher\Documents\Asp.Net\Student_Form\Student_Form\obj\Debug\net8.0-windows\Student_Form.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Documents\Asp.Net\Student_Form\Student_Form\obj\Debug\net8.0-windows\Student_Form.dll
+C:\Users\Teacher\Documents\Asp.Net\Student_Form\Student_Form\obj\Debug\net8.0-windows\refint\Student_Form.dll
+C:\Users\Teacher\Documents\Asp.Net\Student_Form\Student_Form\obj\Debug\net8.0-windows\Student_Form.pdb
+C:\Users\Teacher\Documents\Asp.Net\Student_Form\Student_Form\obj\Debug\net8.0-windows\Student_Form.genruntimeconfig.cache
+C:\Users\Teacher\Documents\Asp.Net\Student_Form\Student_Form\obj\Debug\net8.0-windows\ref\Student_Form.dll

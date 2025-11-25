@@ -1,0 +1,16 @@
+C:\Users\Teacher\Documents\Asp.Net\assignement\assignement\bin\Debug\net8.0-windows\assignement.exe
+C:\Users\Teacher\Documents\Asp.Net\assignement\assignement\bin\Debug\net8.0-windows\assignement.deps.json
+C:\Users\Teacher\Documents\Asp.Net\assignement\assignement\bin\Debug\net8.0-windows\assignement.runtimeconfig.json
+C:\Users\Teacher\Documents\Asp.Net\assignement\assignement\bin\Debug\net8.0-windows\assignement.dll
+C:\Users\Teacher\Documents\Asp.Net\assignement\assignement\bin\Debug\net8.0-windows\assignement.pdb
+C:\Users\Teacher\Documents\Asp.Net\assignement\assignement\obj\Debug\net8.0-windows\assignement.Form1.resources
+C:\Users\Teacher\Documents\Asp.Net\assignement\assignement\obj\Debug\net8.0-windows\assignement.csproj.GenerateResource.cache
+C:\Users\Teacher\Documents\Asp.Net\assignement\assignement\obj\Debug\net8.0-windows\assignement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teacher\Documents\Asp.Net\assignement\assignement\obj\Debug\net8.0-windows\assignement.AssemblyInfoInputs.cache
+C:\Users\Teacher\Documents\Asp.Net\assignement\assignement\obj\Debug\net8.0-windows\assignement.AssemblyInfo.cs
+C:\Users\Teacher\Documents\Asp.Net\assignement\assignement\obj\Debug\net8.0-windows\assignement.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Documents\Asp.Net\assignement\assignement\obj\Debug\net8.0-windows\assignement.dll
+C:\Users\Teacher\Documents\Asp.Net\assignement\assignement\obj\Debug\net8.0-windows\refint\assignement.dll
+C:\Users\Teacher\Documents\Asp.Net\assignement\assignement\obj\Debug\net8.0-windows\assignement.pdb
+C:\Users\Teacher\Documents\Asp.Net\assignement\assignement\obj\Debug\net8.0-windows\assignement.genruntimeconfig.cache
+C:\Users\Teacher\Documents\Asp.Net\assignement\assignement\obj\Debug\net8.0-windows\ref\assignement.dll

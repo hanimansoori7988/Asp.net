@@ -1,0 +1,17 @@
+C:\Users\Teacher\Documents\Asp.Net\Combo_Box\Combo_Box\bin\Debug\net8.0-windows\Combo_Box.exe
+C:\Users\Teacher\Documents\Asp.Net\Combo_Box\Combo_Box\bin\Debug\net8.0-windows\Combo_Box.deps.json
+C:\Users\Teacher\Documents\Asp.Net\Combo_Box\Combo_Box\bin\Debug\net8.0-windows\Combo_Box.runtimeconfig.json
+C:\Users\Teacher\Documents\Asp.Net\Combo_Box\Combo_Box\bin\Debug\net8.0-windows\Combo_Box.dll
+C:\Users\Teacher\Documents\Asp.Net\Combo_Box\Combo_Box\bin\Debug\net8.0-windows\Combo_Box.pdb
+C:\Users\Teacher\Documents\Asp.Net\Combo_Box\Combo_Box\obj\Debug\net8.0-windows\Combo_Box.Form1.resources
+C:\Users\Teacher\Documents\Asp.Net\Combo_Box\Combo_Box\obj\Debug\net8.0-windows\Combo_Box.Properties.Resources.resources
+C:\Users\Teacher\Documents\Asp.Net\Combo_Box\Combo_Box\obj\Debug\net8.0-windows\Combo_Box.csproj.GenerateResource.cache
+C:\Users\Teacher\Documents\Asp.Net\Combo_Box\Combo_Box\obj\Debug\net8.0-windows\Combo_Box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teacher\Documents\Asp.Net\Combo_Box\Combo_Box\obj\Debug\net8.0-windows\Combo_Box.AssemblyInfoInputs.cache
+C:\Users\Teacher\Documents\Asp.Net\Combo_Box\Combo_Box\obj\Debug\net8.0-windows\Combo_Box.AssemblyInfo.cs
+C:\Users\Teacher\Documents\Asp.Net\Combo_Box\Combo_Box\obj\Debug\net8.0-windows\Combo_Box.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Documents\Asp.Net\Combo_Box\Combo_Box\obj\Debug\net8.0-windows\Combo_Box.dll
+C:\Users\Teacher\Documents\Asp.Net\Combo_Box\Combo_Box\obj\Debug\net8.0-windows\refint\Combo_Box.dll
+C:\Users\Teacher\Documents\Asp.Net\Combo_Box\Combo_Box\obj\Debug\net8.0-windows\Combo_Box.pdb
+C:\Users\Teacher\Documents\Asp.Net\Combo_Box\Combo_Box\obj\Debug\net8.0-windows\Combo_Box.genruntimeconfig.cache
+C:\Users\Teacher\Documents\Asp.Net\Combo_Box\Combo_Box\obj\Debug\net8.0-windows\ref\Combo_Box.dll

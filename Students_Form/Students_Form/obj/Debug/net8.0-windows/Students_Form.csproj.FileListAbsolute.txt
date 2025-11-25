@@ -1,0 +1,6 @@
+C:\Users\Teacher\Documents\Asp.Net\Students_Form\Students_Form\obj\Debug\net8.0-windows\Students_Form.Form1.resources
+C:\Users\Teacher\Documents\Asp.Net\Students_Form\Students_Form\obj\Debug\net8.0-windows\Students_Form.csproj.GenerateResource.cache
+C:\Users\Teacher\Documents\Asp.Net\Students_Form\Students_Form\obj\Debug\net8.0-windows\Students_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teacher\Documents\Asp.Net\Students_Form\Students_Form\obj\Debug\net8.0-windows\Students_Form.AssemblyInfoInputs.cache
+C:\Users\Teacher\Documents\Asp.Net\Students_Form\Students_Form\obj\Debug\net8.0-windows\Students_Form.AssemblyInfo.cs
+C:\Users\Teacher\Documents\Asp.Net\Students_Form\Students_Form\obj\Debug\net8.0-windows\Students_Form.csproj.CoreCompileInputs.cache
