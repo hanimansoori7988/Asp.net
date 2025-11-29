@@ -1,8 +1,8 @@
-using System.Diagnostics;
 using class10.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.SignalR;
-
+using System.Diagnostics;
+using System.Net.Mail;
+using System.Net;
 namespace class10.Controllers
 {
     public class HomeController : Controller
@@ -16,19 +16,34 @@ namespace class10.Controllers
 
         public IActionResult Index()
         {
-            HttpContext.Session.SetString("username", "Ume Hani");
-            HttpContext.Session.SetInt32("UserId", 12);
+            try
+            {
+                MailMessage mail = new MailMessage();
+                mail.To.Add("hanimansoori2004@gmail.com");
+                mail.To.Add("hanimansoori17@gmail.com");
+
+                mail.From = new MailAddress("hanimansoori2004@gmail.com");
+                mail.Subject = "Asp.net MVC Core Mail";
+                mail.Body ="<h1>Hello Asp Mailer</h1>";
+                mail.IsBodyHtml = true;
+                mail.ReplyTo = new MailAddress("hani17@gmail.com");
+                
+                SmtpClient smtp = new SmtpClient();
+                smtp.Host = "smtp.gmail.com";
+                smtp.Port = 587;
+                smtp.EnableSsl = true;
+                smtp.Credentials = new NetworkCredential("hanimansoori2004@gmail.com", "ictg czbl ntvz mziv");
+                smtp.Send(mail);
+           
+            }
+            catch (Exception ex) {
+                ViewBag.error = ex.Message;
+            }
             return View();
         }
-        public IActionResult About() {
-            ViewBag.user = HttpContext.Session.GetString("username");
-            ViewBag.userid = HttpContext.Session.GetInt32("UserId");
-            ViewBag.email = HttpContext.Session.GetString("email");
-            return View();
-        }
+
         public IActionResult Privacy()
         {
-            HttpContext.Session.SetString("email", "hanimansoori2004@gmail.com");
             return View();
         }
 

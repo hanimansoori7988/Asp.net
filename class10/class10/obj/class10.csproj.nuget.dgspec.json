@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Teacher\\Documents\\Asp.Net\\Asp.net\\class10\\class10\\class10.csproj": {}
+    "C:\\Users\\Teacher\\Documents\\Asp.Net\\class10\\class10\\class10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Teacher\\Documents\\Asp.Net\\Asp.net\\class10\\class10\\class10.csproj": {
+    "C:\\Users\\Teacher\\Documents\\Asp.Net\\class10\\class10\\class10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Teacher\\Documents\\Asp.Net\\Asp.net\\class10\\class10\\class10.csproj",
+        "projectUniqueName": "C:\\Users\\Teacher\\Documents\\Asp.Net\\class10\\class10\\class10.csproj",
         "projectName": "class10",
-        "projectPath": "C:\\Users\\Teacher\\Documents\\Asp.Net\\Asp.net\\class10\\class10\\class10.csproj",
+        "projectPath": "C:\\Users\\Teacher\\Documents\\Asp.Net\\class10\\class10\\class10.csproj",
         "packagesPath": "C:\\Users\\Teacher\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Teacher\\Documents\\Asp.Net\\Asp.net\\class10\\class10\\obj\\",
+        "outputPath": "C:\\Users\\Teacher\\Documents\\Asp.Net\\class10\\class10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
